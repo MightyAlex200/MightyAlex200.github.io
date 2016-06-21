@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TopTechWizard Blog</title>
+    <description>This is my blog where I post about (tech) stuff and things.
+</description>
+    <link>http://www.toptechwizard.com/</link>
+    <atom:link href="http://www.toptechwizard.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 21 Jun 2016 16:51:56 -0400</pubDate>
+    <lastBuildDate>Tue, 21 Jun 2016 16:51:56 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;p&gt;Hello World! :D&lt;/p&gt;
+
+&lt;p&gt;This is my blog, where I’ll be posting tech stuff probably. And things like that.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Jun 2016 04:46:00 -0400</pubDate>
+        <link>http://www.toptechwizard.com/2016/06/21/hello-world.html</link>
+        <guid isPermaLink="true">http://www.toptechwizard.com/2016/06/21/hello-world.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
