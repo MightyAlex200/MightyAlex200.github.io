@@ -6,9 +6,21 @@
 </description>
     <link>http://www.toptechwizard.com/</link>
     <atom:link href="http://www.toptechwizard.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Jun 2016 16:51:56 -0400</pubDate>
-    <lastBuildDate>Tue, 21 Jun 2016 16:51:56 -0400</lastBuildDate>
+    <pubDate>Tue, 21 Jun 2016 21:13:20 -0400</pubDate>
+    <lastBuildDate>Tue, 21 Jun 2016 21:13:20 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Introduction to coding!</title>
+        <description>&lt;p&gt;Hello! Today, I’ve made a flow chart that should hopefully make coding less intimidating and help you make your first computer program!
+&lt;img src=&quot;http://www.toptechwizard.com/assets/HowToCode.svg&quot; alt=&quot;FlowChart&quot; title=&quot;FlowChart&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Jun 2016 09:07:00 -0400</pubDate>
+        <link>http://www.toptechwizard.com/2016/06/21/introduction-to-coding.html</link>
+        <guid isPermaLink="true">http://www.toptechwizard.com/2016/06/21/introduction-to-coding.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Hello World</title>
