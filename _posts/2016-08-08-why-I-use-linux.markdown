@@ -10,4 +10,3 @@ And there you go! My reasons for why Linux is better than Windows. Oh what's tha
 ![SC2]({{site.url}}/assets/SC2.png "SC2")
 ![SC4]({{site.url}}/assets/SC3.png "SC3")
 ![SC3]({{site.url}}/assets/SC4.png "SC4")
-![SC5]({{site.url}}/assets/SC5.png "SC5")
