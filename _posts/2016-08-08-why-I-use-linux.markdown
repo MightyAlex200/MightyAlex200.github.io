@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Why I use Linux"
+date: 2016-08-08 15:03:00 -0400
+---
+As the title suggests I use Linux for most of the things I do on my computer (besides gaming of course). But how in the world could a free operating system be better than one that costs $100? Well the main answer to that question would be customization. No matter how you look at it Linux will always be more customizable than Windows. In Linux you can change basically everything. Some of these things include the desktop environment, default programs, terminal, music player, window decorations, effects, vsync, widget style, and more! And those are only some things regular users would do, you can change a lot more. But customization doesn't mean anything if all your choices suck, so what choices have I made to my Linux? Well first I'm using the K Desktop Environment (KDE). It's my favorite because it's one of the best looking and very functional. In Dolphin, KDE's most popular file manager, you can paste the clipboard contents directly into folders, something that Windows cannot do. KDE saves the last 7 things you copied and selected, and it connects to your phone seamlessly. But besides that, are there any more reasons to pick Linux over Windows? Yes there is, quite a lot. One big one is compatibility. You'll hear people saying that Linux doesn't support this or that but the number of things Linux doesn't support pales in comparison to what it does support. It supports all major types of drive partitions, and it has the ability to run Windows software and command-line Mac programs. But is it fast? Yes, very. In Windows you usually get a nice and fast experience until you start installing programs. These programs run at startup, adding more time to boot, and they might run updater's in the background that hurt performance and use up valuable CPU time. In Linux, all installations, upgrades, and uninstallations are handled by one program. In Kubuntu (the type of Linux I run) this is APT, and it doesn't slow down your computer when looking for updates. Oh and you can upgrade all your programs at once, something VERY useful that Windows can't do because not many of it's installers are standard.
+
+And there you go! My reasons for why Linux is better than Windows. Oh what's that? Screenshot's or it didn't happen? Here:
+![SC1]({{site.url}}/assets/SC1.png "SC1")
+![SC2]({{site.url}}/assets/SC2.png "SC2")
+![SC4]({{site.url}}/assets/SC3.png "SC3")
+![SC3]({{site.url}}/assets/SC4.png "SC4")
+![SC5]({{site.url}}/assets/SC5.png "SC5")
