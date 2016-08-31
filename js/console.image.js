@@ -114,7 +114,7 @@
 	 * @return {null}
 	 */
 	console.meme = function(upper, lower, image, width, height) {
-		if(!upper) console.error("Yo, you forgot the text for the upper part of the meme. The bit at the top. Yeah, that bit.");
+		if(!upper) console.warn("Literally Nobody cares that I didn't put text at the top of the meme so SHUT UP");
 		if(!lower) console.error("You forgot the text for the bottom of the meme, stupid.");
 		if(!image) console.error("Dude, you forgot the meme type or url for the background image (CORS enabled, *hint* imgur *hint*). To see a list of supported memes, hit `console.meme()`");
 		if(!upper && !lower && !image) return console.log("> " + Object.keys(memes).join("\n> "));
