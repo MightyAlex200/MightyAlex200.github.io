@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "how to download youtube videos (and more!)"
+title: "How to download Youtube videos (and more!)"
 date: 2016-08-31 19:08:00 -0400
 ---
 Youtube. The website that needs no introduction. But what may need an introduction is how to download videos from it. There are many ways to do this but this post will be going over the fastest method, though be warned terminals and command prompts lie ahead!
